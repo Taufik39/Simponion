@@ -9,4 +9,8 @@ class PagesController extends Controller
     public function home() {
         return view('front/index');
     }
+
+    public function admin() {
+        return view('back/index');
+    }
 }
