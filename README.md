@@ -8,7 +8,6 @@ Berikut langkah untuk menjalankan web di localhost.
 1. Tools yang harus disiapkan :
     - [PHP][1] >= 7.3
     - [Composer][2]
-    - 
 2. Clone repository ini dengan command berikut di GIT console:
             
         git clone git@github.com:Taufik39/Simponion.git Simponion
